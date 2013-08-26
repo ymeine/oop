@@ -1,0 +1,51 @@
+{
+	"name": "oop",
+	"version": "0.5.0",
+	"keywords": [
+		"oop",
+		"class"
+	],
+
+
+
+	"decription": "Object Oriented Programming library, with different level of granularity, from raw object manipulation to powerfull classes creation. All aimed at creating a better API in the end.",
+	"url": "https://github.com/ymeine/oop",
+	"bugs": "https://github.com/ymeine/oop/issues",
+
+
+	"contributors": [
+		{
+			"name": "Yannick Meine",
+			"email": "yannick.meine@gmail.com",
+			"url": "https://github.com/ymeine"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://opensource.org/licenses/mit-license.php"
+		}
+	],
+
+
+
+	"scripts": {
+	},
+	"bin": {
+	},
+
+
+
+	"preferGlobal": false,
+	"private": false,
+
+
+	"engineStrict": false,
+	"engines": {
+		"node": "*"
+	},
+	"dependencies": {
+		"lodash": "*",
+		"prelude-ls": "*"
+	}
+}
