@@ -6,9 +6,9 @@ If you don't know anything about this project, please refer the the [introductio
 
 ## Project architecture
 
-The project started from an existing code base. It has been taken from [`ymeine/editor-tools`](https://github.com/ymeine/editors-tools), branch [`utlimate-poc`](https://github.com/ymeine/editors-tools/tree/ultimate-poc), path [`ultimate-poc/resources/app/node_modules/std`](https://github.com/ymeine/editors-tools/tree/ultimate-poc/ultimate-poc/resources/app/node_modules/std), and adapted. Please refer to it for any history (unfortunately mixed with the rest of the project).
+The project started from an existing code base. It has been taken from [`ymeine/editor-tools`](https://github.com/ymeine/editors-tools), branch [`utlimate-poc`](https://github.com/ymeine/editors-tools/tree/ultimate-poc), commit [59c05b4205feec0f6ca660b8347e4fb135536862](https://github.com/ymeine/editors-tools/tree/59c05b4205feec0f6ca660b8347e4fb135536862), path [`ultimate-poc/resources/app/node_modules/std`](https://github.com/ymeine/editors-tools/tree/59c05b4205feec0f6ca660b8347e4fb135536862/ultimate-poc/resources/app/node_modules/std), and adapted. Please refer to it for any history (unfortunately mixed with the rest of the project).
 
-A re-engineered version of the library is developed in another branch, from scratch, and in LiveScript intead of JavaScript. Of course, knowledge from the first version as well as changes made to it will be used for that new version.
+A re-engineered version of the library is developed in another branch, from scratch, and in LiveScript instead of JavaScript. Of course, knowledge from the first version as well as changes made to it will be used for that new version.
 
 So to have a working version, use what's available on the master branch, for the new version, see branch [`v2`](https://github.com/ymeine/oop/tree/v2).
 
