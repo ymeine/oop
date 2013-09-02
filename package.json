@@ -3,13 +3,19 @@
 	"version": "0.5.0",
 	"keywords": [
 		"oop",
-		"class"
+		"class",
+		"schema",
+		"type",
+		"object"
 	],
 
 
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ymeine/oop.git"
+	},
 
-	"decription": "Object Oriented Programming library, with different level of granularity, from raw object manipulation to powerfull classes creation. All aimed at creating a better API in the end.",
-	"url": "https://github.com/ymeine/oop",
+	"url": "http://ymeine.github.io/oop",
 	"bugs": "https://github.com/ymeine/oop/issues",
 
 
@@ -17,7 +23,7 @@
 		{
 			"name": "Yannick Meine",
 			"email": "yannick.meine@gmail.com",
-			"url": "https://github.com/ymeine"
+			"url": "http://ymeine.github.io"
 		}
 	],
 	"licenses": [
@@ -29,10 +35,9 @@
 
 
 
-	"scripts": {
-	},
-	"bin": {
-	},
+	"main": "src/node_modules",
+	"scripts": {},
+	"bin": {},
 
 
 
