@@ -25,12 +25,12 @@ So to have a working version, use what's available on the master branch, for the
 
 To ignore:
 
-* `node_modules`: generated from [`package.json`](./package.json)
+* `node_modules`: generated from [`package.json`](./package.json) using npm
 
 # Contribute
 
 ## Development
 
-For a sort of backlog, see [issues](https://github.com/ymeine/oop/issues) tagged with `todo` and not associated to the milestone `v2`.
+For a kind of backlog, see [issues](https://github.com/ymeine/oop/issues).
 
 Guidelines will be published in the [wiki](https://github.com/ymeine/oop/wiki) of this project (or a less specific one).

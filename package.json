@@ -52,5 +52,9 @@
 	"dependencies": {
 		"lodash": "*",
 		"prelude-ls": "*"
+	},
+	"devDependencies": {
+		"benchmark": "*",
+		"tester": "git+https://github.com/ymeine/tester#version/latest"
 	}
 }
