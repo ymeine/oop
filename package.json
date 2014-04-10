@@ -49,6 +49,9 @@
 	"engines": {
 		"node": "*"
 	},
+	"devDependencies": {
+		"tester": "git+https://github.com/ymeine/tester#version/cutting-edge"
+	},
 	"dependencies": {
 		"lodash": "*",
 		"prelude-ls": "*"
